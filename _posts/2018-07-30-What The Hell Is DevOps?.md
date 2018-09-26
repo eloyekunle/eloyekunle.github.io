@@ -9,6 +9,7 @@ tags:
   - waterfall
   - phoenix project
   - the goal
+permalink: /article/what-hell-devops
 ---
 One of the biggest trends in recent years (amidst several others) is *DevOps*, and the wide proliferation of tools used by DevOps professionals can be highly intimidating to someone just trying to understand what problems DevOps professionals actually solve and what role they play in an organization’s day-to-day operations.
 
