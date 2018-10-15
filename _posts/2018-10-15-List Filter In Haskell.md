@@ -1,6 +1,6 @@
 ---
 layout: post
-title: List Filter in Haskell
+title: Haskell - List Filter in Haskell
 category: Technology
 tags:
     - haskell
@@ -8,8 +8,9 @@ tags:
 ---
 
 ## Array Filter In Haskell
+**Github**: [ArrayFilter.hs](https://github.com/eloyekunle/haskell_snippets/blob/master/ArrayFilter.hs)  
 We'll continue list manipulation by considering how to filter a list.  
-Specifically, given a number `n` and an array, we'll return all elements of the array less than `n`.
+Specifically, given a number `n` and an array, we'll return all elements of the array less than `n`.  
 
 First we declare the `type` of our function, which takes a number and an array, and returns an array.
 
