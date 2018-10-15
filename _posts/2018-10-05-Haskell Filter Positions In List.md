@@ -5,6 +5,7 @@ category: Technology
 tags: [haskell, hackerrank]
 ---
 
+**Github**: [FilterPositionsInList.hs](https://github.com/eloyekunle/haskell_snippets/blob/master/FilterPositionsInList.hs)
 We will now manipulate Lists by filtering through and returning only the elements that occur in the odd positions.
 
 We declare our function type which takes in a List as an argument and returns a List.
