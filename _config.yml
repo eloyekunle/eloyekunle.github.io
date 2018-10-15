@@ -28,3 +28,6 @@ exclude:
  - vendor/gems/
  - vendor/ruby/
  - .idea/
+
+disqus:
+  shortname: playmiceweb
