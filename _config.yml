@@ -7,6 +7,8 @@ url: "https://elijahoyekunle.com"
 twitter_username: elijahoyekunle
 github_username:  eloyekunle
 linkedin_username: elijahoyekunle
+#header_pages:
+#  - about.md
 
 # Build settings
 markdown: kramdown
