@@ -5,3 +5,7 @@ permalink: /about/
 ---
 
 Should put something up here soon.
+
+### Work
+### Projects
+### Skills
