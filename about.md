@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Should put something up here soon.
-
-### Work
-### Projects
-### Skills
+[My CV](https://github.com/eloyekunle/eloyekunle.github.io/blob/master/cv.pdf)
