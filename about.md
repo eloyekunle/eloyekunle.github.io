@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-[My CV](https://github.com/eloyekunle/eloyekunle.github.io/blob/master/cv.pdf)
+[My CV](https://github.com/eloyekunle/eloyekunle.github.io/raw/master/cv.pdf)
