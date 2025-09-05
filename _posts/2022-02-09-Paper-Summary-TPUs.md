@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "In-Datacenter Performance Analysis of a Tensor Processing Unit"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "SIMON: A Simple and Scalable Method for Sensing, Inference and Measurement in Data Center Networks"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

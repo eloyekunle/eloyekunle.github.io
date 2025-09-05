@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GSoC Journey: Weeks 1 & 2 - Community Bonding'
-category: Technology
+category: Blog
 tags:
     - gsoc
     - kubernetes

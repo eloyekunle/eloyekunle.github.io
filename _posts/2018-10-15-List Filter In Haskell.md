@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Haskell - List Filter in Haskell
-category: Technology
+category: Blog
 tags:
     - haskell
     - hackerrank

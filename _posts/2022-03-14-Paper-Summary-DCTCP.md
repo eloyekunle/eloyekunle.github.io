@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Data Center TCP (DCTCP)"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

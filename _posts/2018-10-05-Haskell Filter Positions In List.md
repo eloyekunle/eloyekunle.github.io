@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Haskell - Filter Positions In List
-category: Technology
+category: Blog
 tags: [haskell, hackerrank]
 ---
 

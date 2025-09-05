@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Design Guidelines for High Performance RDMA Systems"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

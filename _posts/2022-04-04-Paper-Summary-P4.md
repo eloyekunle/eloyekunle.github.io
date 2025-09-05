@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "P4: Programming Protocol-Independent Packet Processors"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

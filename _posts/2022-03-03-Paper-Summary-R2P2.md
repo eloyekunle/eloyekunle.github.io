@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "R2P2: Making RPCs first-class datacenter citizens"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

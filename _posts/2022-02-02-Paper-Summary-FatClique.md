@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Understanding Lifecycle Management Complexity of Datacenter Topologies" (FatClique)'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

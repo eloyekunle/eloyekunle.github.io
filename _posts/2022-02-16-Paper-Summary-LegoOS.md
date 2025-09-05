@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

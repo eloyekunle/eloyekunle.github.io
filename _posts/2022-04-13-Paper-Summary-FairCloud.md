@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "FairCloud: Sharing the Network in Cloud Computing"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

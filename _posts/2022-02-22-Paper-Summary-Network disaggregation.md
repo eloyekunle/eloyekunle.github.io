@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Network Requirements for Resource Disaggregation"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

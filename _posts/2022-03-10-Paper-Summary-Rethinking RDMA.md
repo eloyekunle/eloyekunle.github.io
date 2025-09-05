@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "PRISM: Rethinking the RDMA Interface for Distributed Systems"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

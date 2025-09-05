@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "A Scalable, Commodity Data Center Network Architecture" (Fat-tree)'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

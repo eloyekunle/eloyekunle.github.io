@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "High-Resolution Measurement of Data Center Microbursts"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

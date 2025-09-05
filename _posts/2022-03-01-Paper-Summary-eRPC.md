@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Datacenter RPCs can be General and Fast"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

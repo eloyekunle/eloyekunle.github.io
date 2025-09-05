@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Forwarding Metamorphosis: Fast Programmable Match-Action Processing in Hardware for SDN" (RMT)'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Snap: a Microkernel Approach to Host Networking"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

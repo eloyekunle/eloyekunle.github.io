@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Inside the Social Network’s (Datacenter) Network"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

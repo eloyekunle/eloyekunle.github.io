@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Multi-Resource Packing for Cluster Schedulers" (Tetris)'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

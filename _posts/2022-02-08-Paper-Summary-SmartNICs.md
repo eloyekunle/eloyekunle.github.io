@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Azure Accelerated Networking: SmartNICs in the Public Cloud"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

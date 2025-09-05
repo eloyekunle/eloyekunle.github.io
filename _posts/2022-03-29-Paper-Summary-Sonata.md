@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Sonata: Query-Driven Streaming Network Telemetry"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

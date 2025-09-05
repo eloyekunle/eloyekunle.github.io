@@ -2,7 +2,7 @@
 layout: post
 title: What Happens When a Shitty Coder Builds Your Backend
 permalink: /article/what-happens-when-shitty-coder-builds-your-backend
-category: Technology
+category: Blog
 tags:
     - tamper-chrome
     - security

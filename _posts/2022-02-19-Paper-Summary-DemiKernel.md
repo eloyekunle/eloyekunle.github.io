@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "THEMIS: Fair and Efficient GPU Cluster Scheduling"'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Scaling Distributed Machine Learning with In-Network Aggregation" (SwitchML)'
-category: Technology
+category: Blog
 tags: [papers]
 ---
 

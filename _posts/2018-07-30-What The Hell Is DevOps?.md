@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What The Hell Is DevOps?
-category: Technology
+category: Blog
 tags:
   - dev ops
   - toptal

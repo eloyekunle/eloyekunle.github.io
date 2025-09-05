@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Haskell - Repeat List Elements
-category: Technology
+category: Blog
 tags: [haskell, hackerrank]
 ---
 

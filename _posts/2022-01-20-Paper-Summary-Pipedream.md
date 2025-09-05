@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "PipeDream: Generalized Pipeline Parallelism for DNN Training"'
-category: Technology
+category: Blog
 tags: [papers, pipedream]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Notes on "Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing" (Spark)'
-category: Technology
+category: Blog
 tags: [papers, spark]
 ---
 
