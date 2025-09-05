@@ -2,7 +2,7 @@
 layout: post
 title: 'Notes on "PipeDream: Generalized Pipeline Parallelism for DNN Training"'
 category: Technology
-tags: [papers]
+tags: [papers, pipedream]
 ---
 
 **Link to Paper:** <https://people.eecs.berkeley.edu/~matei/papers/2019/sosp_pipedream.pdf>
