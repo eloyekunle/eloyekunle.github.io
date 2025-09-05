@@ -31,7 +31,7 @@ It was our 2nd practical session this semester. 1st year students of Computer Sc
 
 **8) MATH 1P67**: Development and analysis of algorithms, complexity of algorithms, recursion solving recurrence relations and relations and functions.
 
-_http://www.cosc.brocku.ca/offerings/first_
+<https://www.cosc.brocku.ca/offerings/first>
 
 Here's what we're taught at The Federal University of Technology, Akure (1st year Computer Science):
 
@@ -53,6 +53,6 @@ Here's what we're taught at The Federal University of Technology, Akure (1st yea
 
 **9) CSC 101:** Introduction to Computer Science
 
-_http://csc.futa.edu.ng/courselist.php_
+<https://csc.futa.edu.ng/courselist.php>
 
 Well, if we're not going to declare an Educational State of Emergency, at least let's give our 54 year old mother a well deserved tribute!

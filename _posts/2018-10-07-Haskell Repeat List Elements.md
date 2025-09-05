@@ -6,6 +6,7 @@ tags: [haskell, hackerrank]
 ---
 
 **Github**: [RepeatArrayElements.hs](https://github.com/eloyekunle/haskell_snippets/blob/master/RepeatArrayElements.hs)
+
 We'll explore some ways to carry out some List operations in Hasell.  
 Specifically, we'll write functions that repeat each element of a list a specific (`n`) number of times.
 

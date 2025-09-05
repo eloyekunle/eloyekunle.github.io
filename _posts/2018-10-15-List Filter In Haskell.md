@@ -8,6 +8,7 @@ tags:
 ---
 
 **Github**: [ArrayFilter.hs](https://github.com/eloyekunle/haskell_snippets/blob/master/ArrayFilter.hs)  
+
 We'll continue list manipulation by considering how to filter a list.  
 Specifically, given a number `n` and an array, we'll return all elements of the array less than `n`.  
 

@@ -10,7 +10,7 @@ tags:
 
 **Definition of Open Source**
 
-Generally,**open source **refers to a computer program in which the source code is available to the general public for use and/or modification from its original design.**Open-source software** is software whose source code is published and made available to the public, enabling anyone to copy, modify and redistribute the source code without paying royalties or fees. The [open-source movement][1] in software began as a response to the limitations of proprietary code, and has since spread across different fields.
+Generally, _open source_ refers to a computer program in which the source code is available to the general public for use and/or modification from its original design. _Open-source software_ is software whose source code is published and made available to the public, enabling anyone to copy, modify and redistribute the source code without paying royalties or fees. The [open-source movement][1] in software began as a response to the limitations of proprietary code, and has since spread across different fields.
 
 Before the phrase open source became widely adopted, developers and producers used a variety of other terms. Open source gained hold with the rise of the Internet, and the attendant need for massive retooling of the computing source code. Opening the source code enabled a self-enhancing diversity of production models, communication paths, and interactive communities.
 
@@ -21,32 +21,28 @@ In production and development, open source as a development model promotes unive
 **Features of Open Source Model**
 
 * **Source Code**  
-This is one of the major principles/features of the Open Source Model. It means that the source code of a software has to be generally available or it's not open source. In most cases, the source code is made available _with a license _which places a restriction on the redistribution and use of the source code. This is a major difference between [_Open-source software _][2]and [_Free software _][3](Free software allows you to freely redistribute the source code, modify and sell it without any restrictions whatsoever).
+This is one of the major principles/features of the Open Source Model. It means that the source code of a software has to be generally available or it's not open source. In most cases, the source code is made available _with a license _which places a restriction on the redistribution and use of the source code. This is a major difference between [_open-source software_][2] and [_free software_][3] (Free software allows you to freely redistribute the source code, modify and sell it without any restrictions whatsoever).
 * **Peer Production/Community/Mass Collaboration**  
 A main principle of open-source software development is[ peer production][4], with products such as source code, "blueprints", and documentation available to the public at no cost. Open-source code can evolve through community cooperation. These communities are composed of individual programmers as well as large companies. Some of the individual programmers who start an open-source project may end up establishing companies offering products or services incorporating open-source programs.
 
 **Advantages and Disadvantages of Open Source Model**
 
-1. Lower Cost  
-Open source software are generally cheaper to produce when compared to their proprietary competitors because they are supported by communities that actively contribute to the software.
-2. No Vendor Lock-In  
-Using open source software also means that you're not locked to using a particular vendor's system that only work with their other systems.
-3. Security  
-Open source software are usually more secure because the source code is available for everyone who cares to go through it any security backdoors, vulnerabilities, viruses or worms that have been planted there by the developers will be easy to detect.
-4. Better Quality  
-Because open source software has many users poring over the code, it generally has better quality and is less prone to bugs and errors when compared to its proprietary competitors.
-1. Because there is no requirement to create a commercial product that will sell and generate money, open source software can tend to evolve more in line with developers' wishes than the needs of the end user.
-2. For the same reason, they can be less "user-friendly" and not as easy to use because less attention is paid to developing the user interface.
-3. There may also be less support available for when things go wrong – open source software tends to rely on its community of users to respond to and fix problems.
-4. Although the open source software itself is mostly free, there may still be some indirect costs involved, such as paying for external support.
-5. Although having an open system means that there are many people identifying bugs and fixing them, it also means that malicious users can potentially view it and exploit any vulnerabilities.
+1. Lower Cost: Open source software are generally cheaper to produce when compared to their proprietary competitors because they are supported by communities that actively contribute to the software.
+2. No Vendor Lock-In: Using open source software also means that you're not locked to using a particular vendor's system that only work with their other systems.
+3. Security: Open source software are usually more secure because the source code is available for everyone who cares to go through it any security backdoors, vulnerabilities, viruses or worms that have been planted there by the developers will be easy to detect.
+4. Better Quality: Because open source software has many users poring over the code, it generally has better quality and is less prone to bugs and errors when compared to its proprietary competitors.
+   1. Because there is no requirement to create a commercial product that will sell and generate money, open source software can tend to evolve more in line with developers' wishes than the needs of the end user.
+   2. For the same reason, they can be less "user-friendly" and not as easy to use because less attention is paid to developing the user interface.
+   3. There may also be less support available for when things go wrong – open source software tends to rely on its community of users to respond to and fix problems.
+   4. Although the open source software itself is mostly free, there may still be some indirect costs involved, such as paying for external support.
+   5. Although having an open system means that there are many people identifying bugs and fixing them, it also means that malicious users can potentially view it and exploit any vulnerabilities.
 
 **Developmental Tools in Open Source**
 
 * **Revision Control Systems**  
-Revision control systems such as [**Concurrent Versions System **][5](CVS) and later [**Subversion **][6](SVN) and [**Git **][7]are examples of tools that help centrally manage the source code files and the changes to those files for a software project. Revision control systems are needed in order to identify changes to the source code and so as to track changes to the code base over time.
+Revision control systems such as [**Concurrent Versions System (CVS)**][5] and later [**Subversion (SVN)**][6] and [**Git**][7] are examples of tools that help centrally manage the source code files and the changes to those files for a software project. Revision control systems are needed in order to identify changes to the source code and so as to track changes to the code base over time.
 * **Internet Communication Systems**  
-Tools such as [_mailing lists_][8], [_IRC _][9](Internet Relay Chat), and [_instant messaging_][10] provide means of Internet communication between developers. The Web is also a core feature of all of the above systems.
+Tools such as [_mailing lists_][8], [_IRC (Internet Relay Chat)_][9], and [_instant messaging_][10] provide means of Internet communication between developers. The Web is also a core feature of all of the above systems.
 
 **Comparisons with Other Developmental Models**
 
